@@ -22,7 +22,10 @@ repository: "dbeaulieu/dbeaulieu.github.io"
 url: "http://blog.beaulieu.run" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dmbeaulieu
 github_username:  dbeaulieu
-
+so_username: danbeaulieu
+googlePlus_username: DanBeaulieu1
+linkedIn_username: Dan-Beaulieu
+facebook_username: dan.beaulieu
 # Build settings
 markdown: kramdown
 

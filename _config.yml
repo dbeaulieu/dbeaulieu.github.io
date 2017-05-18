@@ -17,6 +17,9 @@ title: Dan Beaulieu
 email: dan@beaulieu.run
 description: > # this means to ignore newlines until "baseurl:"
   Developer, developer, developer!
+header_pages:
+  - about.md
+  - blog.md
 baseurl: "" # the subpath of your site, e.g. /blog
 repository: "dbeaulieu/dbeaulieu.github.io"
 url: "http://blog.beaulieu.run" # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,6 +31,8 @@ linkedIn_username: Dan-Beaulieu
 facebook_username: dan.beaulieu
 # Build settings
 markdown: kramdown
+
+
 
 gems:
   - jekyll-feed

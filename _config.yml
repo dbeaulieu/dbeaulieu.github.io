@@ -39,3 +39,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+theme: jekyll-theme-hacker

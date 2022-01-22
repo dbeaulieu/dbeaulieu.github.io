@@ -31,7 +31,7 @@ twitter_username: dmbeaulieu
 github_username:  dbeaulieu
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
